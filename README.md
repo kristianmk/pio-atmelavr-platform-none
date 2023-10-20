@@ -1,0 +1,1 @@
+# pio-atmelavr-platform-none

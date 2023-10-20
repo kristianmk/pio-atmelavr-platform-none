@@ -1,0 +1,17 @@
+{
+  "name" : "None",
+  "title" : "AVRlibc without Arduino",
+  "description" : "Platform definition for use with AVR microcontrollers with pure avrlibc.",
+  "homepage" : "https://github.com/kristianmk/pio-atmelavr-platform-none",
+  "license" : "See homepage for license",
+  "engines" : {
+    "platformio": "^6"
+  },
+  "frameworks" : "",
+  "packages" : {
+    "toolchain-atmelavr" : {
+      "type" : "toolchain",
+      "owner" : "platformio",
+    }
+  }
+}

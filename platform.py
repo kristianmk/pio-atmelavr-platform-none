@@ -1,6 +1,6 @@
 from platformio.public import PlatformBase
 
-class AvrNonePlatform(PlatformBase):
+class AvrnonePlatform(PlatformBase):
   def is_embedded(self):
     return True
 

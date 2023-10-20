@@ -19,7 +19,7 @@
     "None",
     "Microchip",
     "ATmega",
-    "ATmega168",
+    "ATmega168"
   ],
   "pythonPackages" : {
   }

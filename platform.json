@@ -11,7 +11,14 @@
   "packages" : {
     "toolchain-atmelavr" : {
       "type" : "toolchain",
-      "owner" : "platformio",
+      "owner" : "platformio"
     }
-  }
+  },
+  "keywords" : [
+    "AVR",
+    "None",
+    "Microchip",
+    "ATmega",
+    "ATmega168",
+  ]
 }

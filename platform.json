@@ -1,5 +1,5 @@
 {
-  "name" : "AvrNone",
+  "name" : "avrnone",
   "title" : "AVRlibc without Arduino",
   "description" : "Platform definition for use with AVR microcontrollers with pure avrlibc.",
   "homepage" : "https://github.com/kristianmk/pio-atmelavr-platform-none",
